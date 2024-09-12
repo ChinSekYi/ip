@@ -21,6 +21,7 @@ gradle tools:
 ./gradlew clean shadowJar
 ./gradlew clean build
 ./gradlew checkstyleMain checkstyleTest
+./gradlew clean shadowJar
 
 shortcut:
 - double click on code -> softwrap
